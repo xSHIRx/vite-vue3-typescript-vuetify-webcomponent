@@ -1,0 +1,34 @@
+{
+  "name": "vue3-webcomponent/mine",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "YOUR-REPO-URL"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<YOUR-REPO-URL>/issues"
+  },
+  "dependencies": {
+    "vue": "^3.3.13"
+  },
+  "homepage": "<YOUR-REPO-URL>#readme",
+  "devDependencies": {
+    "@babel/types": "^7.23.6",
+    "@types/node": "^20.10.5",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vite-plugin-vuetify": "^2.0.1",
+    "vue-tsc": "^1.8.26",
+    "vuetify": "^3.4.8"
+  }
+}
