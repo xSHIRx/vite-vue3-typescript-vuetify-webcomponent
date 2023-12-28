@@ -15,7 +15,7 @@
     <br />
 
     <button type="button" @click="clicked">COUNT THAT RUNS PROP FUNC {{ count2 }}</button>
-    <v-btn> pretty button</v-btn>
+    <!-- <v-btn> pretty button</v-btn> -->
     <br />
     <br />
 
